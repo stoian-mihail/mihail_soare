@@ -1,0 +1,420 @@
+# Translation of Themes - Twenty Seventeen in Romanian
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-18 11:48:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ro\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen îți aduce site-ul la viață cu antet video și imagini reprezentative captivante. Cu un accent pe site-uri de afaceri, tema conține atât secțiuni multiple pe pagina din față, cât și piese, meniuri de navigare și sociale, un logo și multe altele. Personalizează grila sa asimetrică cu o paletă de culori personală și evidențiază conținutul tău media cu ajutorul formatelor de articol. Tema noastră implicită pentru 2017 funcționează minunat în multe limbi, pe orice dispozitiv și e accesibilă tuturor, indiferent de abilități."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:17
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: inc/block-patterns.php:193
+msgid "Contact us"
+msgstr "Contactează-ne"
+
+#: inc/block-patterns.php:188
+msgid "We are proud to serve outstanding clients."
+msgstr "Suntem mândri să ne servim clienții de seamă."
+
+#: inc/block-patterns.php:184
+msgid "Contact Us"
+msgstr "Contactează-ne"
+
+#: inc/block-patterns.php:170
+msgid "Video Production"
+msgstr "Producție video"
+
+#: inc/block-patterns.php:170
+msgid "Marketing &amp; SEO"
+msgstr "Marketing și SEO"
+
+#: inc/block-patterns.php:170
+msgid "Content Strategy"
+msgstr "Strategie pentru conținut"
+
+#: inc/block-patterns.php:162
+msgid "Web Development"
+msgstr "Dezvoltare web"
+
+#: inc/block-patterns.php:148
+msgid "Services"
+msgstr "Servicii"
+
+#: inc/block-patterns.php:131
+msgid "Strategy"
+msgstr "Strategie"
+
+#: inc/block-patterns.php:117
+msgid "Design"
+msgstr "Design"
+
+#: inc/block-patterns.php:90
+msgid "Images with Link"
+msgstr "Imagini cu legătură"
+
+#: inc/block-patterns.php:77
+msgid "Need a website? We&#39;ve got you covered. Our design team will create a stunning design to transform your brand."
+msgstr "Ai nevoie de un site web? Ți-l oferim. Echipa noastră de design va crea un design uimitor pentru a-ți transforma brandul."
+
+#: inc/block-patterns.php:74 inc/block-patterns.php:162
+msgid "Web Design"
+msgstr "Design web"
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:114
+msgid "White border"
+msgstr "Chenar alb"
+
+#: inc/block-patterns.php:63 inc/block-patterns.php:80
+#: inc/block-patterns.php:106 inc/block-patterns.php:120
+#: inc/block-patterns.php:134
+msgid "See Case Study"
+msgstr "Vezi studiul de caz"
+
+#: inc/block-patterns.php:45
+msgid "Images with Text and Link"
+msgstr "Imagini cu text și legătură"
+
+#: inc/block-patterns.php:36 inc/block-patterns.php:155
+msgid "Our Services"
+msgstr "Serviciile noastre"
+
+#: inc/block-patterns.php:31
+msgid "Attract Leads with Marketing Campaigns that Work"
+msgstr "Atragi potențiali clienți cu campanii de marketing care funcționează"
+
+#: inc/block-patterns.php:28
+msgid "Large Heading with Button"
+msgstr "Subtitlu mare cu buton"
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "Subsol"
+
+#: functions.php:346
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Adaugă piese aici pentru a apărea în bara laterală în articole de blog și în pagini de arhivă."
+
+#: functions.php:344 sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "Bară laterală blog"
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr "Derulează în jos la conținut"
+
+#: functions.php:187
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Cafea"
+
+#: functions.php:183
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Sandviș"
+
+#: functions.php:179
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Expreso"
+
+#: inc/custom-header.php:128
+msgid "Pause background video"
+msgstr "Oprește videoul de fundal"
+
+#: inc/custom-header.php:127
+msgid "Play background video"
+msgstr "Rulează videoul de fundal"
+
+#. translators: %s: The section ID.
+#: inc/template-tags.php:158
+msgid "Front Page Section %s Placeholder"
+msgstr "Substituent %s secțiune Pagina din față"
+
+#: inc/customizer.php:109
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Când e ales aranjamentul pe două coloane, titlul paginii se află într-o coloană iar conținutul este în cealaltă."
+
+#: single.php:34
+msgid "Next Post"
+msgstr "Articolul următor"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Articole"
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr "Etichete"
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr "Categorii"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post date.
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Publicat pe</span> %s"
+
+#. translators: %s: Post author.
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "de %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Te rog definește un nume de fișier pentru iconul SVG."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Te rog definește parametrii impliciți sub forma unui tablou."
+
+#: inc/customizer.php:143
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Alege pagini din listele derulante pentru a fi evidențiate în fiecare dintre zone. Adaugă o imagine la o secțiune prin setarea imaginii reprezentative în editorul paginii. Secțiunile goale nu se vor afișa."
+
+#. translators: %d: The front page section number.
+#: inc/customizer.php:142
+msgid "Front Page Section %d Content"
+msgstr "Conținut pentru secțiunea %d din pagina din față"
+
+#: inc/customizer.php:112 inc/customizer.php:171
+msgid "Two Column"
+msgstr "Două coloane"
+
+#: inc/customizer.php:111 inc/customizer.php:170
+msgid "One Column"
+msgstr "O coloană"
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr "Aranjament pagină"
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: inc/customizer.php:64
+msgid "Custom"
+msgstr "Personalizat"
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr "Luminoasă"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Schemă de culori"
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr "Imagine antet implicită"
+
+#: functions.php:368
+msgid "Footer 2"
+msgstr "Subsol 2"
+
+#: functions.php:358 functions.php:370
+msgid "Add widgets here to appear in your footer."
+msgstr "Adaugă piese aici ca să apară în subsol."
+
+#: functions.php:356
+msgid "Footer 1"
+msgstr "Subsol 1"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:69 functions.php:211
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Meniul de sus"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Răspunde"
+
+#: template-parts/post/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil o căutare poate ajuta."
+
+#: search.php:59
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ești gata să-ți publici primul articol? <a href=\"%s\">Începe de aici</a>."
+
+#: search.php:26 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "N-am găsit nimic"
+
+#: single.php:33
+msgid "Previous Post"
+msgstr "Articolul anterior"
+
+#: comments.php:71 single.php:33
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:72 single.php:34
+msgid "Next"
+msgstr "Următor"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Căutare"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Caută &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Caută după:"
+
+#. translators: Search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Rezultate de căutare pentru: %s"
+
+#. translators: %s: Post title.
+#: functions.php:398 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:82 template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> „%s”</span>"
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr "Întunecată"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeen necesită măcar WordPress versiunea 4.3. Tu rulezi versiunea %s. Te rog actualizează și încearcă din nou."
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Editează<span class=\"screen-reader-text\"> „%s”</span>"
+
+#: template-parts/page/content-front-page.php:48
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:90
+#: template-parts/post/content-gallery.php:77
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:89 template-parts/post/content.php:64
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: functions.php:490
+msgid "Collapse child menu"
+msgstr "Restrânge meniul copil"
+
+#: functions.php:489
+msgid "Expand child menu"
+msgstr "Extinde meniul copil"
+
+#: functions.php:70 functions.php:222
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#. translators: %s: WordPress
+#: template-parts/footer/site-info.php:21
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Meniu legături sociale în subsol"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s răspuns la &bdquo;%2$s&rdquo;"
+msgstr[1] "%1$s răspunsuri la &bdquo;%2$s&rdquo;"
+msgstr[2] "%1$s de răspunsuri la &bdquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Un răspuns la &bdquo;%s&rdquo;"
+
+#: archive.php:51 index.php:55 search.php:52
+msgid "Page"
+msgstr "Pagină"
+
+#: archive.php:50 index.php:54 search.php:51
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: archive.php:49 index.php:53 search.php:50
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "echipa WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"
+
+#. Author URI of the theme
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr "https://ro.wordpress.org/"

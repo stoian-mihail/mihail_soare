@@ -1,0 +1,9 @@
+Version 1.2
+	- Demo data installation improved
+	- Added support for Google API Key
+
+Version 1.1
+	Added Demo data
+
+Version 1.0
+	Release

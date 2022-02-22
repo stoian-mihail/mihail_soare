@@ -1,0 +1,78 @@
+.woocommerce-page .woocommerce table.cart thead th.product-quantity{
+    word-wrap: normal;
+}
+
+.top_panel_title .page_title { float: none;
+    text-align: center;}
+    
+#menu-item-234 a.sf-with-ul {   
+    padding-left: 0px;
+         }
+a.cuprinsversuri{ font-size:1.1em; text-decoration:none; color:black;}
+  .cuprinsversuri a:hover {color:#e2c75a !important; text-decoration:underline;}
+
+ #menu-item-717 a.sf-with-ul {   
+    padding-left: 20px;
+
+}
+ #menu-item-305 a.sf-with-ul {   
+    padding-left: 20px;
+   
+}
+li#menu-item-305  { margin-right: 10px; }
+
+.article_style_boxed.woocommerce ul.products li.product .post_content, .article_style_boxed.woocommerce-page ul.products li.product .post_content {
+  
+   padding: 0 0 !important; }
+   
+.article_style_boxed.woocommerce ul.products li.product h3, .article_style_boxed.woocommerce-page ul.products li.product h3 {
+    margin-top: 10px;
+}
+body.woocommerce ul.products li.product h3, body.woocommerce-page ul.products li.product h3, div.woocommerce ul.products li.product h3, div.woocommerce-page ul.products li.product h3 {
+    font-size: 1em;
+    min-height: 80px;
+    max-height: 80px;
+}
+
+.top_panel_bottom {
+        border-bottom: 1px solid;}
+
+.fr_liv a:hover {color:#e2c75a !important; text-decoration:underline;}
+a.fr_liv {text-decoration:none;}
+
+.acc_cronici a:hover {color:#e2c75a !important;}
+
+
+@media (max-width: 479px) { 
+    .slider_boxed, .content_wrap, .content_container {
+    width: 100%;
+} 
+   
+  .vc_tta-panel-body {
+    
+    padding: 0px 0px !important;}
+}
+
+.vc_tta-title-text {font-size:20px;}
+
+.woocommerce ul.products li.product a img {
+    width: 97%;
+    
+    border: 2px solid black;}
+    
+    
+   .woocommerce ul.products li.product .button, .woocommerce div.product form.cart .button
+    { margin-left:10px; }
+    
+.widget_shopping_cart_content .buttons .button.checkout { border-radius:40px;}
+
+.top_panel_wrap .contact_field {float:right;position:absolute !important;}
+div.top_panel_middle div.columns_fluid {text-align:center;}
+@media (max-width: 479px){.page_content_wrap {padding-left:3%;}}
+
+@media (max-width: 767px){ .top_panel_wrap .contact_field { float:right; position:relative !important;}}
+
+.comments_field textarea {color:black!important;}
+
+.vc_custom_1485454360326 {
+ text-align: -webkit-center;}

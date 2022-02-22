@@ -1,0 +1,33 @@
+ul.phoen_list li.product {
+	width: 100% !important;
+	text-align: left !important;
+	border-bottom: 1px solid #ccc;
+}
+
+ul.phoen_list li.product img {
+	width: 30.75% !important;
+	display: inline-block !important;
+	vertical-align: top;
+	float: left;
+	padding-right: 20px;
+}
+
+ul.phoen_list li.product h3 {
+	width :65.4%;
+	clear: none;
+}
+
+ul.phoen_list li.product .price {
+	width: 65.4%;
+	clear: none;
+}
+
+.phoen_gridlist_toggle {
+    display: inline-block;
+    padding: 7px 12px;
+	clear: both;
+}
+
+.phoen_gridlist_toggle a.active {
+	color: #000;
+}
